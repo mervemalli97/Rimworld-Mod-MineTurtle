@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+<SoundDef>
+  <defName>Hello</defName>
+  <context>MapOnly</context>
+  <eventNames/>
+
+  <subSounds>
+    <li>
+
+      <grains>
+        <li Class="AudioGrain_Folder">
+          <clipFolderPath>Pawn/Animal/Tortoise/Hello</clipFolderPath>
+        </li>
+      </grains>
+
+    <volumeRange>
+      <min>11</min>
+      <max>11</max>
+    </volumeRange>
+
+    <pitchRange>
+      <min>0.9082353</min>
+      <max>1.114706</max>
+    </pitchRange>
+
+    <distRange>
+      <min>0</min>
+      <max>50</max>
+    </distRange>
+
+  </li>
+</subSounds>
+</SoundDef>
+
+</Defs>
